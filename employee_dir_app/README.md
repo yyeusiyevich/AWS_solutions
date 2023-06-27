@@ -1,4 +1,7 @@
 ![emp](emp.png)
+
+This schema created for an employee directory application. This is a basic CRUD app or create read, update, delete. This app keeps track of employees within a company. 
+
 The application is structured within a private network via Amazon Virtual Private Cloud (VPC). It operates on Amazon Elastic Compute Cloud (EC2), which provides virtual machines in the AWS environment, serving as the core for the application's backend code.
 
 Our database, hosting employee data, is contained within the same network, facilitated by Amazon DynamoDB, a NoSQL database service that offers fast and predictable performance with seamless scalability.
