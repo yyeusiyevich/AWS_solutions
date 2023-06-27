@@ -1,2 +1,2 @@
 # AWS
-![aws_logo](aws_logo.png)
+![aws_logo](aws_lg.png)
