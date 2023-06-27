@@ -1,4 +1,4 @@
-![emp](emp.png)
+![emp](emp_sh.png)
 
 This schema created for an employee directory application. This is a basic CRUD app or create read, update, delete. This app keeps track of employees within a company. 
 
