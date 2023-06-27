@@ -1,4 +1,4 @@
-![tta](three_tier_app.png)
+![tta](tta.png)
 
 This schema presents an AWS architecture for an employee directory application, segmented into three distinct layers: presentation, application, and data.
 
