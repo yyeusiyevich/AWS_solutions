@@ -1,3 +1,5 @@
+[logo](datalake.png)
+
 *Customer Use Case:* A company is planning to use Amazon Simple Storage Service (Amazon S3) as the storage layer for their data lakes solution. Initially, the data that will be ingested into the data lake will come from three locations:
 - Internet of Things (IoT) sensors that send real-time data;
 - A database with historical records;
